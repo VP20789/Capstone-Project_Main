@@ -106,6 +106,8 @@ main/
 │
 ├── requirements.txt
 │___ BreastTumor_Capstone.pptx
+|
+|___ breast_tumor_project_charter.docx
 └── README.md
 
 # Recommended Notebook Execution Order
