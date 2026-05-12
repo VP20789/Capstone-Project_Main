@@ -71,7 +71,7 @@ main/
 │   │   └── wdbc.names
 │   │
 │   ├── interim/
-│   │    └── processed_data.csv
+│   │    └── breast_cancer_cleaned.csv
 │   └── processed/
 │       └── processed_data.csv
 │
